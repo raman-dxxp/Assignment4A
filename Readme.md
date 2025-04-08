@@ -29,3 +29,11 @@ To implement a simple GET request with temporary validation and document tech de
 - Add validations for response content (e.g., title, userId)
 - Implement parameterized testing
 - Add failure scenario handling
+
+## ✅ Features Implemented
+
+- Enhanced GET request with validations (status code, body fields, userId)
+- Negative test case for non-existent post ID (returns empty JSON)
+- Data-driven testing with TestNG DataProvider for multiple IDs
+- Basic error handling and logging added
+

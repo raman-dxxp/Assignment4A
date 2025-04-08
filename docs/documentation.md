@@ -14,3 +14,12 @@
 2. Create parameterized tests for multiple post IDs.
 3. Introduce error handling for bad requests.
 4. Move base URL to config file for better flexibility.
+
+## 🔄 Update: Enhancements Completed
+
+- ✔️ Enhanced testGetRequest with multiple assertions
+- ✔️ Added testInvalidId for negative scenario
+- ✔️ Implemented @DataProvider for multiple post tests
+- ✔️ Included try-catch for better error handling
+- ✔️ Used basic logging via System.out/System.err
+
